@@ -1,0 +1,27 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.root {
+	theme: #222529;
+	backcolor: #e9e9f0;
+	wrapper: linear-gradient(to right, gray, #e5e5e5 1%, white 70%, #e5e5e5 99%,
+		#464646);
+}
+
+.button { 
+}
+
+
+
+.button:hover {
+	
+}
+.Ele{
+	-fx-background-color: gray;
+}
+.root {
+	-fx-background-color: wrapper;
+	-fx-border-radius: 5px;
+}
+
+
+	
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
